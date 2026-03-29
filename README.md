@@ -188,11 +188,22 @@ The Jupyter notebook (`Store_Analysis_notebook.ipynb`) covers:
 
 `Exploratory Data Analysis` · `Business Intelligence` · `Data Visualisation` · `Power BI` · `Python` · `Pandas` · `Statistical Analysis` · `Machine Learning` · `Time Series Forecasting` · `Executive Communication` · `Retail Analytics` · `CRISP-DM`
 
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard1.png)
+
+### Category Analysis
+![Category Analysis](dashboard2.png)
+
+### Regional Insights
+![Regional Insights](dashboard3.png)
+
 ---
 
 ## 📬 Contact
 
-**[Your Name]**
+**[Spandana Korlam]**
 - 🔗 LinkedIn: linkedin.com/in/spandana-korlam-aa532420a
 - 💼 Portfolio: https://github.com/spandanakorlam-ui
 - 📧 Email: spandanakorlam@gmail.com
