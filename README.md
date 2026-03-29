@@ -190,14 +190,16 @@ The Jupyter notebook (`Store_Analysis_notebook.ipynb`) covers:
 
 ## 📊 Dashboard Preview
 
+## 📊 Dashboard Preview
+
 ### Executive Overview
-![Dashboard 1](dashboard1.png)
+![Executive Overview](Dashboard1.png)
 
 ### Category Analysis
-![Dashboard 2](dashboard2.png)
+![Category Analysis](Dashboard2.png)
 
 ### Regional Analysis
-![Dashboard 3](dashboard3.png)
+![Regional Analysis](Dashboard3.png)
 
 ---
 
