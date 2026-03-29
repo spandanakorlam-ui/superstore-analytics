@@ -193,9 +193,9 @@ The Jupyter notebook (`Store_Analysis_notebook.ipynb`) covers:
 ## 📬 Contact
 
 **[Your Name]**
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 💼 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: linkedin.com/in/spandana-korlam-aa532420a
+- 💼 Portfolio: https://github.com/spandanakorlam-ui
+- 📧 Email: spandanakorlam@gmail.com
 
 ---
 
