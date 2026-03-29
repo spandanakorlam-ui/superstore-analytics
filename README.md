@@ -191,13 +191,13 @@ The Jupyter notebook (`Store_Analysis_notebook.ipynb`) covers:
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](dashboard1.png)
+![Dashboard 1](dashboard1.png)
 
 ### Category Analysis
-![Category Analysis](dashboard2.png)
+![Dashboard 2](dashboard2.png)
 
-### Regional Insights
-![Regional Insights](dashboard3.png)
+### Regional Analysis
+![Dashboard 3](dashboard3.png)
 
 ---
 
